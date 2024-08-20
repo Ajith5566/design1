@@ -541,6 +541,7 @@ span {
 /* seventh section */
 #seventh_sec{
     margin: 69px 162px 0px 153px;
+    height:auto;
 }
 #sevth_first_div {
     height: auto;
